@@ -2,10 +2,11 @@
 using namespace std;
 int main()
 {
-	Int i = k + 1;//int,kÎ´¶¨Òå 
+	int i = k + 1;//kæœªå®šä¹‰ 
 	cout << i++ << endl;
-	int i = 1;//ÈôÉÏÃæÎªint£¬ÔòÖØ¸´¶¨ÒåÁË 
+	int i = 1;//ié‡å¤å®šä¹‰äº† 
 	cout << i++ << endl;
 	cout << "Welcome to C++"<<endl;
 	return 0;
 }
+
